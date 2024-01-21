@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TusaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fdf281b3bf0311de28302cf0b427c5827e57344")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9281d6dcf78dd0c47132c8dba4e1efee6fb0156")]
 [assembly: System.Reflection.AssemblyProductAttribute("TusaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TusaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

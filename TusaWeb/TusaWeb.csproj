@@ -17,4 +17,10 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tusa.DataAccess\Tusa.DataAccess.csproj" />
+    <ProjectReference Include="..\Tusa.Models\Tusa.Models.csproj" />
+    <ProjectReference Include="..\Tusa.Utility\Tusa.Utility.csproj" />
+  </ItemGroup>
+
 </Project>

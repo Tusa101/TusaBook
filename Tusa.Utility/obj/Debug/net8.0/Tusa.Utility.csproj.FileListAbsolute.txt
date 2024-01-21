@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Tusa\Tusa.Utility\bin\Debug\net8.0\Tusa.Utility.deps.json
+C:\Users\User\source\repos\Tusa\Tusa.Utility\bin\Debug\net8.0\Tusa.Utility.dll
+C:\Users\User\source\repos\Tusa\Tusa.Utility\bin\Debug\net8.0\Tusa.Utility.pdb
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.AssemblyInfo.cs
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.sourcelink.json
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.dll
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\refint\Tusa.Utility.dll
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\Tusa.Utility.pdb
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\ref\Tusa.Utility.dll

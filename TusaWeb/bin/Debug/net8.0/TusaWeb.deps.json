@@ -12,7 +12,10 @@
           "Microsoft.EntityFrameworkCore": "8.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.1",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.0",
+          "Tusa.DataAccess": "1.0.0",
+          "Tusa.Models": "1.0.0",
+          "Tusa.Utility": "1.0.0"
         },
         "runtime": {
           "TusaWeb.dll": {}
@@ -1913,6 +1916,27 @@
             "fileVersion": "7.0.22.51805"
           }
         }
+      },
+      "Tusa.DataAccess/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.1",
+          "Tusa.Models": "1.0.0",
+          "Tusa.Utility": "1.0.0"
+        },
+        "runtime": {
+          "Tusa.DataAccess.dll": {}
+        }
+      },
+      "Tusa.Models/1.0.0": {
+        "runtime": {
+          "Tusa.Models.dll": {}
+        }
+      },
+      "Tusa.Utility/1.0.0": {
+        "runtime": {
+          "Tusa.Utility.dll": {}
+        }
       }
     }
   },
@@ -3083,6 +3107,21 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "Tusa.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tusa.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tusa.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
