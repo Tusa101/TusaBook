@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Tusa.Models
+namespace TusaBulkyBook.Models
 {
     public class Category
     {

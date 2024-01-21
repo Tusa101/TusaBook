@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Tusa.DataAccess.Data;
+using TusaBulkyBook.DataAccess.Data;
 
 #nullable disable
 
-namespace Tusa.DataAccess.Migrations
+namespace TusaBulkyBook.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20240121141502_AddCategoryToDbAndSeedTable")]
@@ -24,7 +24,7 @@ namespace Tusa.DataAccess.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Tusa.Models.Category", b =>
+            modelBuilder.Entity("TusaBulkyBook.Models.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

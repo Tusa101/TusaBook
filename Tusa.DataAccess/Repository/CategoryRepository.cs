@@ -4,12 +4,12 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using Tusa.DataAccess.Data;
-using Tusa.DataAccess.Migrations;
-using Tusa.DataAccess.Repository.IRepository;
-using Tusa.Models;
+using TusaBulkyBook.DataAccess.Data;
+using TusaBulkyBook.DataAccess.Migrations;
+using TusaBulkyBook.DataAccess.Repository.IRepository;
+using TusaBulkyBook.Models;
 
-namespace Tusa.DataAccess.Repository
+namespace TusaBulkyBook.DataAccess.Repository
 {
     public class CategoryRepository : Repository<Category>, ICategoryRepository
     {
@@ -17,10 +17,6 @@ namespace Tusa.DataAccess.Repository
         public CategoryRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
-        }
-        public void Save()
-        {
-            _db.SaveChanges();
         }
 
         public void Update(Category obj)

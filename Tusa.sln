@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TusaWeb", "TusaWeb\TusaWeb.csproj", "{633A37DC-4B5D-420F-802E-B1CCD297E05E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TusaBulkyBookWeb", "TusaWeb\TusaBulkyBookWeb.csproj", "{633A37DC-4B5D-420F-802E-B1CCD297E05E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusa.DataAccess", "Tusa.DataAccess\Tusa.DataAccess.csproj", "{C0CDA99A-0B8C-43BE-AEFB-4685579501B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TusaBulkyBook.DataAccess", "Tusa.DataAccess\TusaBulkyBook.DataAccess.csproj", "{C0CDA99A-0B8C-43BE-AEFB-4685579501B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusa.Models", "Tusa.Models\Tusa.Models.csproj", "{7F256CD6-04C4-4E79-8A73-D38A0B1735EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TusaBulkyBook.Models", "Tusa.Models\TusaBulkyBook.Models.csproj", "{7F256CD6-04C4-4E79-8A73-D38A0B1735EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tusa.Utility", "Tusa.Utility\Tusa.Utility.csproj", "{85202701-FA9D-4A25-AFD3-44A1158E8DD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TusaBulkyBook.Utility", "Tusa.Utility\TusaBulkyBook.Utility.csproj", "{85202701-FA9D-4A25-AFD3-44A1158E8DD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

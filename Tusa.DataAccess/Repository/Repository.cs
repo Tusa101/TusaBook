@@ -5,10 +5,10 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using Tusa.DataAccess.Data;
-using Tusa.DataAccess.Repository.IRepository;
+using TusaBulkyBook.DataAccess.Data;
+using TusaBulkyBook.DataAccess.Repository.IRepository;
 
-namespace Tusa.DataAccess.Repository
+namespace TusaBulkyBook.DataAccess.Repository
 {
     public class Repository<T> : IRepository<T> where T : class
     {

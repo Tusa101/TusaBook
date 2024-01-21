@@ -1,4 +1,4 @@
-namespace Tusa.Models
+namespace TusaBulkyBook.Models
 {
     public class ErrorViewModel
     {

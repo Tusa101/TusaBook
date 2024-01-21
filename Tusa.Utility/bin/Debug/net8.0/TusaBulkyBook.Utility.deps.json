@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TusaBulkyBook.Utility/1.0.0": {
+        "runtime": {
+          "TusaBulkyBook.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TusaBulkyBook.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

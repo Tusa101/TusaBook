@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\Tusa.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\Tusa.Models.csproj"
+              "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\TusaBook.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\TusaBook.Models.csproj"
               },
-              "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\Tusa.Utility.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\Tusa.Utility.csproj"
+              "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\TusaBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\TusaBook.Utility.csproj"
               }
             }
           }
@@ -86,12 +86,12 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\Tusa.Models.csproj": {
+    "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\TusaBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\Tusa.Models.csproj",
-        "projectName": "Tusa.Models",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\Tusa.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\TusaBook.Models.csproj",
+        "projectName": "TusaBook.Models",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\TusaBook.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -145,12 +145,12 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\Tusa.Utility.csproj": {
+    "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\TusaBook.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\Tusa.Utility.csproj",
-        "projectName": "Tusa.Utility",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\Tusa.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\TusaBook.Utility.csproj",
+        "projectName": "TusaBook.Utility",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\TusaBook.Utility.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\source\\repos\\Tusa\\Tusa.Utility\\obj\\",
         "projectStyle": "PackageReference",

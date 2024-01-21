@@ -3,13 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tusa.Models;
+using TusaBulkyBook.Models;
 
-namespace Tusa.DataAccess.Repository.IRepository
+namespace TusaBulkyBook.DataAccess.Repository.IRepository
 {
     public interface ICategoryRepository : IRepository<Category>
     {
         void Update(Category obj);
-        void Save();
     }
 }

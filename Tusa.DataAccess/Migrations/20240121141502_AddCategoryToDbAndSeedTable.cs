@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace Tusa.DataAccess.Migrations
+namespace TusaBulkyBook.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryToDbAndSeedTable : Migration

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TusaWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TusaWeb.bundle.scp.css"
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TusaBulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TusaBulkyBookWeb.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TusaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TusaBulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TusaWeb.props",
-      "PackagePath": "build\\TusaWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TusaBulkyBookWeb.props",
+      "PackagePath": "build\\TusaBulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TusaWeb.props",
-      "PackagePath": "buildMultiTargeting\\TusaWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TusaBulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\TusaBulkyBookWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TusaWeb.props",
-      "PackagePath": "buildTransitive\\TusaWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TusaBulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\TusaBulkyBookWeb.props"
     }
   ],
   "ElementsToRemove": []
