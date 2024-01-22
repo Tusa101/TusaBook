@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pHYjHg31u2aAaEqz3fX6mu/RmOdvrL3e/0dwkr4Q3Q0=",
+  "Hash": "KoT0mR6g0g5f6e3MA2sdg7fQo0Hh0xquIhX7zSCIoi8=",
   "Source": "TusaBulkyBookWeb",
   "BasePath": "_content/TusaBulkyBookWeb",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg",
+      "SourceId": "TusaBulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\",
+      "BasePath": "_content/TusaBulkyBookWeb",
+      "RelativePath": "images/product/9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg"
     },
     {
       "Identity": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\js\\site.js",

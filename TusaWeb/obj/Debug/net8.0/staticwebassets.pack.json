@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
