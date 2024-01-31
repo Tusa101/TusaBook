@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\9c9798f3-ba60-4289-9907-3fc9ddff2cfd.jpg"
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\652a453c-6a61-409a-879c-29e29713b14f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\652a453c-6a61-409a-879c-29e29713b14f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\6f4921d3-e74e-43fa-a15e-8bab37582dbc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6f4921d3-e74e-43fa-a15e-8bab37582dbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\71f4453a-f17f-43f4-91f8-dea697321e5b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\71f4453a-f17f-43f4-91f8-dea697321e5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\a5b50009-999b-44ac-9b2f-586dd8e3ddd0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a5b50009-999b-44ac-9b2f-586dd8e3ddd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\bc0e4db1-e53f-4c2a-97ca-05265b66f403.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\bc0e4db1-e53f-4c2a-97ca-05265b66f403.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\e8a763cb-07ff-4d0b-b878-5dd3bd410f8c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e8a763cb-07ff-4d0b-b878-5dd3bd410f8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
       "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\js\\site.js",

@@ -1,11 +1,14 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using TusaBulkyBook.DataAccess.Data;
 using TusaBulkyBook.DataAccess.Repository.IRepository;
 using TusaBulkyBook.Models;
+using TusaBulkyBook.Utility;
 
 namespace TusaBulkyBookWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

@@ -10,3 +10,4 @@ C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Util
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\refint\TusaBulkyBook.Utility.dll
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.pdb
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\ref\TusaBulkyBook.Utility.dll
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.csproj.AssemblyReference.cache
