@@ -29,6 +29,7 @@ namespace TusaBulkyBook.Models
         public DateTime PaymentDate { get; set; }
         public DateOnly PaymentDueTime { get; set; }
 
+        public string? SessionId { get; set; }
         public string? PaymentIntentId { get; set; }
 
         [Required]

@@ -1,6 +1,7 @@
 C:\Users\User\source\repos\Tusa\Tusa.Utility\bin\Debug\net8.0\TusaBulkyBook.Utility.deps.json
 C:\Users\User\source\repos\Tusa\Tusa.Utility\bin\Debug\net8.0\TusaBulkyBook.Utility.dll
 C:\Users\User\source\repos\Tusa\Tusa.Utility\bin\Debug\net8.0\TusaBulkyBook.Utility.pdb
+C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Util
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\refint\TusaBulkyBook.Utility.dll
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.pdb
 C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\ref\TusaBulkyBook.Utility.dll
-C:\Users\User\source\repos\Tusa\Tusa.Utility\obj\Debug\net8.0\TusaBulkyBook.Utility.csproj.AssemblyReference.cache

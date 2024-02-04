@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
 using TusaBulkyBook.DataAccess.Repository.IRepository;
 using TusaBulkyBook.Models;
+using TusaBulkyBook.Utility;
 
 
 namespace TusaBulkyBookWeb.Areas.Customer.Controllers
@@ -22,6 +24,7 @@ namespace TusaBulkyBookWeb.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
+
             IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
             return View(productList);
         }
@@ -53,16 +56,17 @@ namespace TusaBulkyBookWeb.Areas.Customer.Controllers
                 //shopping cart exists
                 cartFromDatabase.Count += shoppingCart.Count;
                 _unitOfWork.ShoppingCart.Update(cartFromDatabase);
+                _unitOfWork.Save();
             }
             else
             {
                 //add cart record
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
+                _unitOfWork.Save();
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == userId).Count());
             }
             TempData["success"] = "Cart updated successfully";
-            
-            _unitOfWork.Save();
-
             return RedirectToAction(nameof(Index));
         }
 

@@ -7,7 +7,7 @@
 namespace TusaBulkyBook.DataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class UpdateCompanyRecords : Migration
+    public partial class UpdateCompanyRecords4 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

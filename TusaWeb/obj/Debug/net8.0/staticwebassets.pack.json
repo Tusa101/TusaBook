@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\User\\source\\repos\\Tusa\\TusaWeb\\wwwroot\\images\\product\\652a453c-6a61-409a-879c-29e29713b14f.jpg",
       "PackagePath": "staticwebassets\\images\\product\\652a453c-6a61-409a-879c-29e29713b14f.jpg"
     },
